@@ -1,0 +1,28 @@
+margin 
+
+margin-top = mt
+margin-right = me
+mx = margin rgin-left : mx-2 = 8px
+my = margin-top-bottom : my-2 = 8px	
+
+
+padding 
+
+padding-top = pt
+px = padding-left-right : px-2 = 8px
+py = padding - top-buttom : py-2 = 8px
+
+
+
+Spacing 
+
+
+grid 
+gx 
+
+
+Sizing
+
+
+
+
